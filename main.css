@@ -90,7 +90,7 @@ button:hover {
     background: linear-gradient(top, #3d7a80, #2f5f63);
 }
 
-#category td {
+#category td, #category th {
 	font: bold 1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	background-color: white;
 	cursor: auto;
